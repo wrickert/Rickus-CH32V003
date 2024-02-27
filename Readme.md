@@ -6,6 +6,8 @@ I wanted to play with this project and work on my skills so I created my
 own version of the board. I mean, comeon, linux on a $0.15 microcontroller.
 This is V1, currently on order from JLCPCB. I will update once it is tested
 
+![V1 Kicad Render](https://github.com/wrickert/Rickus-CH32V003/blob/main/Documents/V1.PNG)
+
 Footprints are from my UL-Footprints library
 https://github.com/wrickert/UL-Footprints
 
